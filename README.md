@@ -6,7 +6,7 @@ No meu atual emprego tenho exercido a função de migrar as operações que est�
 
 Realizei processos atípicos nos quais não cabiam utilizar External Query e para isso utilizei o Pentaho para cobrir as tarefas de ETL.
 
-- 🌁 Atualmente trabalhando na Callink, em Uberlândia
-- 📖 Atualmente tenho estudado análise e visualização de dados com Python 
+- 🌁 Atualmente trabalhando na MadeiraMadeira
+- 📖 Atualmente tenho estudado Pyspark
 - 📧 Meu contato: *https://www.linkedin.com/in/arthurfrazao/* ou *arthurxxfrazao@hotmail.com*
 - 🤔 Posso colaborar com conhecimentos sobre programação em Python e bancos de dados relacionais (PostgreSQL, SQL Server e Big Query)
