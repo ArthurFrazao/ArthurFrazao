@@ -1,12 +1,21 @@
-# Olá, seja bem vindo ao meu Github 🤓
+# Hello fellas, welcome to my Github 🤓
 
-Sou assistente de dados, trabalho com a transformação das fontes de dados e informações em relatórios acessíveis que demonstram as estratégias do cliente. 
+## <div align="center">I'm a Data Engineer at [MadeiraMadeira](madeiramadeira.com.br)🚀</div>  
 
-No meu atual emprego tenho exercido a função de migrar as operações que estão com processos e apontamentos para bancos de dados em SQL Server para o Google Big Query. Para isso tenho que extrair dados de uma fonte que está em PostgreSQL na qual a utilizamos como Staging através de uma External Query que possibilita consultar fontes de dados externas e dar carga no banco de dados do Big Query que construímos como o nosso Data Lake.
+- 👨‍💻 I’m currently working at [MadeiraMadeira](madeiramadeira.com.br).
+- 🔧 My favorite tools are Python, Spark and SQL and I have advanced practice developing ETL and ELT pipelines integrating different technologies such as Apache Airflow, AWS EMR, Databricks, Pyspark.
+- 📚 I'm currently studying topics related to serverless data lake
+- 💬 Ask me about anything via social media, I'm really open to a good conversation. *https://www.linkedin.com/in/arthurfrazao/* or *arthurxxfrazao@hotmail.com*
 
-Realizei processos atípicos nos quais não cabiam utilizar External Query e para isso utilizei o Pentaho para cobrir as tarefas de ETL.
+### Latest project I'm working at [MadeiraMadeira](madeiramadeira.com.br)
 
-- 🌁 Atualmente trabalhando na MadeiraMadeira
-- 📖 Atualmente tenho estudado Pyspark
-- 📧 Meu contato: *https://www.linkedin.com/in/arthurfrazao/* ou *arthurxxfrazao@hotmail.com*
-- 🤔 Posso colaborar com conhecimentos sobre programação em Python e bancos de dados relacionais (PostgreSQL, SQL Server e Big Query)
+Basically, this project consists of 5 stages:
+
+**1st** - Extract the data from Google Analytics (GA3 and GA4) and Google Merchant Center and then store it in tables in Google BigQuery.
+
+**2nd** - Extract the data that was stored in Google BigQuery in step 1 then export it to AWS S3
+
+**3rd** - Curate the data and transform it according to the business rules
+
+**4th** - Run the AWS Redshift copy command to get the data from the curated files then make it available to consumers via dashboards and visualization tools
+![project_architecture](https://user-images.githubusercontent.com/59981437/203485693-d2f35380-93fa-47c0-a7ed-25625579c6ac.png)
